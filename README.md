@@ -4,6 +4,8 @@ This is a platfomer game made with pygame where you control the player with your
 
 ![giphy](https://github.com/user-attachments/assets/454bcdd1-6843-4378-80c8-8a1a68da3ab8)
 
+Youtube video - https://www.youtube.com/watch?v=zAmvG3Iv8qo
+
 ## Playing the Game
 The aim of the game is to reach the gate on the last platform. Once you reach the last platform, the gate will open and you can go through to the next level.
 
